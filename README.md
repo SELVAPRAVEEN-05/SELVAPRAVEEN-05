@@ -33,7 +33,7 @@
   <a href="mailto:yourmail@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
   </a>
-  <a href="https://leetcode.com/your-leetcode-username/" target="_blank">
+  <a href="[https://leetcode.com/your-leetcode-username/](https://leetcode.com/u/SELVAPRAVEEN_S/)" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-%23FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
   </a>
 </p>
