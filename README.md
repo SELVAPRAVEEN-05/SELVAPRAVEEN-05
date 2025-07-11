@@ -24,19 +24,20 @@
 ## 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-link" target="_blank">
+  <a href="https://www.linkedin.com/in/your-link" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://yourportfolio.com" target="_blank">
+  <a href="https://yourportfolio.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-%232C2C2C?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="mailto:yourmail@example.com">
+  <a href="mailto:selvapraveen@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
   </a>
-  <a href="[https://leetcode.com/your-leetcode-username/](https://leetcode.com/u/SELVAPRAVEEN_S/)" target="_blank">
+  <a href="https://leetcode.com/u/SELVAPRAVEEN_S/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LeetCode-%23FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
   </a>
 </p>
+
 
 
 ---
