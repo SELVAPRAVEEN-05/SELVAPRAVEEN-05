@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Selvapraveen S!
+# 👋 Hi there, I'm Selvapraveen S
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Open+Source+Contributor;Lifelong+Learner" alt="Typing SVG" />
 
@@ -33,9 +33,17 @@
 
 ## 🌐 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-24292e?style=flat&logo=github&logoColor=white)](https://yourportfolio.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-link" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://yourportfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%232C2C2C?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:yourmail@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=SELVAPRAVEEN-05&color=blue)
