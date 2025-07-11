@@ -1,5 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=1E90FF&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Selvapraveen+S" />
-
+# 👋 Hi there, I'm Selvapraveen S
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Open+Source+Contributor;Lifelong+Learner" alt="Typing SVG" />
 
