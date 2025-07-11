@@ -21,16 +21,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SELVAPRAVEEN-05&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SELVAPRAVEEN-05&theme=radical" />
-</p>
-
----
-
 ## 🌐 Let's Connect
 
 <p align="center">
@@ -41,9 +31,13 @@
     <img src="https://img.shields.io/badge/Portfolio-%232C2C2C?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:yourmail@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+  </a>
+  <a href="https://leetcode.com/your-leetcode-username/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
   </a>
 </p>
+
 
 ---
 
