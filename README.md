@@ -1,9 +1,5 @@
-<h1 align="center">
-  👋 Hi there, I'm
-  <svg width="300px" height="40px" viewBox="0 0 300 40" xmlns="http://www.w3.org/2000/svg">
-    <text x="0" y="30" font-size="28" color="#1E90FF" font-family="Arial, sans-serif">Selvapraveen S</text>
-  </svg>
-</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=1E90FF&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Selvapraveen+S" />
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Open+Source+Contributor;Lifelong+Learner" alt="Typing SVG" />
 
