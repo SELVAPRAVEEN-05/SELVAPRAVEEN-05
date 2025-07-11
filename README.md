@@ -1,7 +1,7 @@
 <h1 align="center">
   👋 Hi there, I'm
   <svg width="300px" height="40px" viewBox="0 0 300 40" xmlns="http://www.w3.org/2000/svg">
-    <text x="0" y="30" font-size="28" fill="#1E90FF" font-family="Arial, sans-serif">Selvapraveen S</text>
+    <text x="0" y="30" font-size="28" color="#1E90FF" font-family="Arial, sans-serif">Selvapraveen S</text>
   </svg>
 </h1>
 
