@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Selvapraveen S
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Open+Source+Contributor;Lifelong+Learner" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Lifelong+Learner;MERN+Stack+Developer;" alt="Typing SVG" />
 
 ---
 
