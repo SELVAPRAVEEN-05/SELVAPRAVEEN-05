@@ -14,18 +14,10 @@
 
 ---
 
-## 💻 Programming Languages
+## 🛠️ Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,java,python,c,cpp" />
-</p>
-
----
-
-## 🧰 Technologies & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,express,mysql,reactnative,flutter,firebase,vite,vercel,git,github,figma,linux" />
+  <img src="https://skillicons.dev/icons?i=ts,js,java,python,c,cpp,nextjs,react,tailwind,nodejs,express,mysql,flutter,firebase,vite,astro,vercel,git,github,figma,linux" />
 </p>
 
 ---
