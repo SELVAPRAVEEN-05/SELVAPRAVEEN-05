@@ -17,7 +17,7 @@
 ## 🛠️ Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,java,python,c,cpp,nextjs,react,tailwind,nodejs,express,mysql,flutter,firebase,vite,astro,vercel,git,github,figma,linux" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,ts,js,java,python,html,css,react,vite,nextjs,tailwind,nodejs,express,mysql,flutter,vercel,git,github,figma" />
 </p>
 
 ---
