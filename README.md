@@ -28,7 +28,7 @@
   <a href="https://www.linkedin.com/in/selvapraveen-s-bit/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://yourportfolio.com" target="_blank" rel="noopener noreferrer">
+  <a href="https://selva-33.vercel.app" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-%232C2C2C?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:selvapraveen2005@gmail.com" target="_blank" rel="noopener noreferrer">
