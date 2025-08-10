@@ -6,11 +6,10 @@
 
 ## 🚀 About Me
 
-- 🎓 Currently pursuing Computer Science and building full-stack & mobile apps  
-- 💻 Tech Stack: `Next.js` `React` `Tailwind CSS` `Node.js` `Express` `MySQL`  
-- 📱 Also developing mobile apps using `React Native` & `Flutter`  
-- 🌱 Exploring: `GraphQL`, `AI integration`, `Cloud computing`  
-- ⚡ Fun fact: I love crafting animated UIs and interactive web experiences  
+- 🎓 Dedicated Computer Engineering student with hands-on full-stack development experience  
+- 💻 Passionate about creating clean, user-friendly web applications and learning new technologies  
+- 🤝 Excel in teamwork and solving real-world challenges through impactful software solutions  
+- ♟️ Enthusiastic chess player, enhancing strategic thinking and problem-solving skills  
 
 ---
 
@@ -38,6 +37,3 @@
     <img src="https://img.shields.io/badge/LeetCode-%23FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
   </a>
 </p>
-
-
----
