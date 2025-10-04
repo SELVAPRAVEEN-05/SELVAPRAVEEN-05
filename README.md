@@ -78,7 +78,7 @@ const selvapraveen = {
 
 ### 📈 Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SELVAPRAVEEN-18&bg_color=0D1117&color=6C63FF&line=FF6B6B&point=6C63FF&area=true&hide_border=true" alt="Contribution Graph" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SELVAPRAVEEN-05&bg_color=0D1117&color=6C63FF&line=FF6B6B&point=6C63FF&area=true&hide_border=true" alt="Contribution Graph" width="90%"/>
 
 </div>
 
