@@ -1,10 +1,10 @@
 <div align="center">
 
-# Welcome To My Digital Space 👨‍💻
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20To%20My%20Digital%20Space&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Selvapraveen+S+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;Mobile+App+Developer+%F0%9F%93%B1;MERN+Stack+Engineer+%E2%9A%A1;Problem+Solver+%F0%9F%A7%A9" alt="Typing SVG" />
+### Hi there! 👋 I'm **Selvapraveen S**
 
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%92%BB;Mobile+App+Developer+%F0%9F%93%B1;MERN+Stack+Engineer+%E2%9A%A1;Computer+Engineering+Student+%F0%9F%8E%93;Problem+Solver+%26+Chess+Enthusiast+%E2%99%9F%EF%B8%8F" alt="Typing SVG" />
 
 </div>
 
@@ -207,33 +207,6 @@ const currentFocus = {
 <img src="https://komarev.com/ghpvc/?username=SELVAPRAVEEN-18&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views" />
 <img src="https://img.shields.io/github/followers/SELVAPRAVEEN-18?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
 <img src="https://img.shields.io/github/stars/SELVAPRAVEEN-18?label=Total%20Stars&style=for-the-badge&color=yellow" alt="Total Stars" />
-
-</div>
-
----
-
-## 💡 Core Values
-
-<div align="center">
-
-| 🎯 **Value** | 💭 **Description** |
-|---|---|
-| 🧹 **Clean Code** | Writing maintainable and readable code |
-| 🤝 **Collaboration** | Strong team player and communicator |
-| 📚 **Continuous Learning** | Always exploring new technologies |
-| 🎨 **User Experience** | Creating intuitive and beautiful interfaces |
-| 🔍 **Problem Solving** | Analytical and strategic approach |
-| 🚀 **Innovation** | Building impactful solutions |
-
-</div>
-
----
-
-## 📝 Latest Blog Posts
-
-<div align="center">
-
-*Coming Soon! Stay tuned for articles on web development, coding tips, and tech insights.*
 
 </div>
 
