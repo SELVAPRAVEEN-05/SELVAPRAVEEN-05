@@ -64,14 +64,14 @@ const selvapraveen = {
 
 ### 🎯 Most Used Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SELVAPRAVEEN-18&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF" alt="Top Languages" width="60%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SELVAPRAVEEN-05&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF" alt="Top Languages" width="60%" />
 
 ### 📊 Contribution Stats
 
 <table align="center">
 <tr>
 <td align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SELVAPRAVEEN-18&theme=radical&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SELVAPRAVEEN-05&theme=radical&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" alt="GitHub Streak" />
 </td>
 </tr>
 </table>
