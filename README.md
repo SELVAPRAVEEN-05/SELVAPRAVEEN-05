@@ -64,7 +64,7 @@ const selvapraveen = {
 
 ### 🎯 Most Used Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SELVAPRAVEEN-05&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF&langs_count=8&hide=html,css&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SELVAPRAVEEN-05&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF&langs_count=8&hide=html,css&count_private=true&cache_seconds=1800" />
 
 ### 📊 Contribution Stats
 
@@ -202,7 +202,7 @@ const currentFocus = {
 <a href="mailto:selvapraveen2005@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/📧_GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="40"/>
 </a>
-<a href="https://github.com/SELVAPRAVEEN-18" target="_blank">
+<a href="https://github.com/SELVAPRAVEEN-05" target="_blank">
   <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="40"/>
 </a>
 <a href="https://leetcode.com/u/SELVAPRAVEEN_S/" target="_blank">
@@ -213,9 +213,9 @@ const currentFocus = {
 
 ### 📊 Profile Analytics
 
-<img src="https://komarev.com/ghpvc/?username=SELVAPRAVEEN-18&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/SELVAPRAVEEN-18?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
-<img src="https://img.shields.io/github/stars/SELVAPRAVEEN-18?label=Total%20Stars&style=for-the-badge&color=yellow" alt="Total Stars" />
+<img src="https://komarev.com/ghpvc/?username=SELVAPRAVEEN-05&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/SELVAPRAVEEN-05?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
+<img src="https://img.shields.io/github/stars/SELVAPRAVEEN-05?label=Total%20Stars&style=for-the-badge&color=yellow" alt="Total Stars" />
 
 </div>
 
@@ -231,6 +231,6 @@ const currentFocus = {
 
 ---
 
-<sub>⭐️ From [Selvapraveen S](https://github.com/SELVAPRAVEEN-18) with 💙 | Built with passion and code ☕</sub>
+<sub>⭐️ From [Selvapraveen S](https://github.com/SELVAPRAVEEN-05) with 💙 | Built with passion and code ☕</sub>
 
 </div>
